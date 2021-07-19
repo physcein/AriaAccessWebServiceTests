@@ -18,6 +18,8 @@ namespace AriaAccessWebServiceTests
         static void Main(string[] args)
         {
             // login at myvarian.com => My Account  => API Key Management => New API Request => Fill out all the information. Once submitted, "Display API Request => Click "API Key" under Request Status. From the downloaded key fiel, copy key value to below. Also, set API Key at varian Service Portal. 
+            
+            // This may or may not work.
             // If windows ID/pswd is not sync'd with Aria, Username and Password need to be added to each request as follows.
 
             /*
@@ -29,6 +31,7 @@ namespace AriaAccessWebServiceTests
             ,\"UserName\":{\"Value\":\"" + userName + "\"}, ,\"Password\":{\"Value\":\"" + psWd + "\"}
 
             */
+
 
 
             string apiKey = "Get your own Aria Access Key"; //place your API key here (ARIA Access)
