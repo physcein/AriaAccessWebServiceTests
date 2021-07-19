@@ -19,7 +19,7 @@ namespace AriaAccessWebServiceTests
         {
             // login at myvarian.com => My Account  => API Key Management => New API Request => Fill out all the information. Once submitted, "Display API Request => Click "API Key" under Request Status. From the downloaded key fiel, copy key value to below. Also, set API Key at varian Service Portal. 
             
-            // This UserName / Password may or may not work based on how Administrave gropu set your access right at Varian Service Portal, but usually physicists are authrized to do most of it.
+            // This UserName / Password may or may not work based on how Administrave gropu set your access right at Varian Service Portal, but usually physicists are authorized to do most of it.
             // If windows ID/pswd is not sync'd with Aria, Username and Password need to be added to each request as follows.
 
             /*
