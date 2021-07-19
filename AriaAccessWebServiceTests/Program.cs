@@ -1,6 +1,5 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using services.varian.com.AriaWebConnect.Link;
-//using services.varian.com.AWV.WebService;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
