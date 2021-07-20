@@ -21,6 +21,7 @@ namespace AriaAccessWebServiceTests
             // 1. Open cmd and type in "cd C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools"
             // 2. type "svcutil.exe ttps://GetYourServerName:PortNumber/Gateway/service.svc?wsdl
             // 3. Then, add Gateway.cs from this folder to this project.
+            
             // This UserName / Password may or may not work based on how Administrave gropu set your access right at Varian Service Portal, but usually physicists are authorized to do most of it.
             // If windows ID/pswd is not sync'd with Aria, Username and Password need to be added to each request as follows.
 
