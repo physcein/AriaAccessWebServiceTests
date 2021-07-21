@@ -19,7 +19,7 @@ namespace AriaAccessWebServiceTests
             // login at myvarian.com => My Account  => API Key Management => New API Request => Fill out all the information. Once submitted, "Display API Request => Click "API Key" under Request Status. From the downloaded key fiel, copy key value to below. Also, set API Key at varian Service Portal. 
             // Get your own Gateway.cs file as follows.
             // 1. Open cmd and type in "cd C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools"
-            // 2. type "svcutil.exe ttps://GetYourServerName:PortNumber/Gateway/service.svc?wsdl
+            // 2. Type "svcutil.exe ttps://GetYourServerName:PortNumber/Gateway/service.svc?wsdl
             // 3. Then, add Gateway.cs from this folder to this project.
             
             // This UserName / Password may or may not work based on how Administrave gropu set your access right at Varian Service Portal, but usually physicists are authorized to do most of it.
