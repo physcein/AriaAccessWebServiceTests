@@ -226,7 +226,7 @@ namespace AriaAccessWebServiceTests
             ////Console.WriteLine(response_PlInfo);
             //Console.ReadLine();
 
-            //// Get Patient Plan Tx Fields Request - Something worng
+            //// Get Patient Plan Tx Fields Request - There is a bug on this request and not working currently. varian informed it plans to fix it in future version.
 
             //string patientId = "PatientId";
             //string courseId = "CourseId";
